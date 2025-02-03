@@ -162,6 +162,14 @@
               {
                 "name": "Ionic",
                 "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
