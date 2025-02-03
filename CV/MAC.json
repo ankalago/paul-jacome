@@ -498,6 +498,12 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Sass",
           "type": "technology"
         }
@@ -523,6 +529,12 @@
       {
         "skill": {
           "name": "Styled Components",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
           "type": "technology"
         }
       },
