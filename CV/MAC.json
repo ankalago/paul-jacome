@@ -34,6 +34,53 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Minteo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/03/ab48ca9d-6abb-4259-8a7c-905f68129f13_screenshot-2025-02-0.png",
+            "alt": "Screenshot 2025-02-03 at 8.22.27 AM.png"
+          },
+          "URL": "https://minteo.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer, Minteo, Remote 100%",
+            "startDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "- **React**, Next.js, **TypeScript**, Dripsy, React Native\n- Crypto, **Web3**\n- **Temporal IO**\n- Vercel (Vercel CLI, Deploys, Edge Config) \n- Arquitectura de **MicroFront**, Mejoras de rendimiento para performance y SEO\n- Trabajar con Google Tag Manager \n- Alta disponibilidad de usuarios y bots \n- Mixpanel"
+              }
+            ],
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
