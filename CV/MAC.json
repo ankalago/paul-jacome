@@ -109,11 +109,23 @@
                 "type": "technology"
               },
               {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
                 "name": "NextJS",
                 "type": "technology"
               },
               {
                 "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
                 "type": "technology"
               },
               {
