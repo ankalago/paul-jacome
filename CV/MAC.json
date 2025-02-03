@@ -30,7 +30,8 @@
       },
       {
         "type": "other",
-        "URL": "https://sonofa.ai/topic/5f31dd74-5f8d-4b57-a444-d2279dabc890"
+        "URL": "https://sonofa.ai/topic/5f31dd74-5f8d-4b57-a444-d2279dabc890",
+        "description": "Podcast"
       }
     ]
   },
@@ -330,12 +331,6 @@
       {
         "skill": {
           "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS Lambda",
           "type": "technology"
         }
       },
