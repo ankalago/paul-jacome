@@ -222,6 +222,82 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "LatAm Autos",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/03/1d4bbf2f-f7a5-4524-a736-0e576f4d94a4_screenshot-2025-02-0.png",
+            "alt": "Screenshot 2025-02-03 at 8.41.28 AM.png"
+          },
+          "URL": "https://www.latamautos.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer, Latam Autos, Quito - Híbrido",
+            "startDate": "2017-01-01",
+            "finishDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "- **React**, **NextJs**, **React Native**, **Redux**, **RxJs**, **TypeScript**, Angular, **Jest**, NodeJs, **Gatsby**, **Firebase**, WordPress, AWS (Lambda, AppSync, GraphQL, Cognito, Dynamo, API Gateway), Laravel, Docker, **Scala**  \n- Arquitectura Monolítica y Microfront, Mejoras de rendimiento para SEO  \n- Estrategias **SSR** y **SSG**  \n- Google Search Console, Google Analytics  \n- **A/B testing** Google Optimize, Optimizely  \n- Alta disponibilidad de usuario y bots  \n- **DDD** and **TDD**  \n- Entrevistas a nuevos empleados  \n- Fullstack y mobile developer  \n- Definición base de proyecto Nanoservicios (Lambda Functions)  \n- Herramientas de diseño **Sketch**, InVision, **Zeplin**, **Figma**  \n- Metodología **Scrum**"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
