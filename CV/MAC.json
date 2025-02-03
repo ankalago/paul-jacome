@@ -208,6 +208,10 @@
                 "type": "technology"
               },
               {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
                 "name": "Sass",
                 "type": "technology"
               },
