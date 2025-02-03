@@ -372,6 +372,12 @@
       },
       {
         "skill": {
+          "name": "Capacitor",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -414,6 +420,12 @@
       },
       {
         "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Java",
           "type": "technology"
         }
@@ -421,6 +433,12 @@
       {
         "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
           "type": "technology"
         }
       },
