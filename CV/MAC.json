@@ -122,6 +122,50 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "SlashMobility",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/03/9e77b653-d495-4f71-a188-cb85d4bf597b_screenshot-2025-02-0.png",
+            "alt": "Screenshot 2025-02-03 at 8.31.48 AM.png"
+          },
+          "URL": "http://www.slashmobility.com"
+        },
+        "roles": [
+          {
+            "name": "Head of Web, SlashMobility, Remoto 100%",
+            "startDate": "2021-11-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "- **Angular**, **Redux**, **Ionic**, **Capacitor**, **Firebase**, **AWS**, WordPress, Git\n- Arquitectura Monolítica  \n- **Gestión** de ingeniería (2 personas)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Capacitor",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
