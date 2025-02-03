@@ -343,6 +343,7 @@
     }
   },
   "manfredSpecificData": {
-    "desiredJobDescription": "Encontrar un ambiente de trabajo donde pueda compartir con personas de todo el mundo, apasionados de la tecnología que junto con producto se busque agregar valor a negocio... un poco nerd sería un plus 🤓\n\n"
+    "desiredJobDescription": "Encontrar un ambiente de trabajo donde pueda compartir con personas de todo el mundo, apasionados de la tecnología que junto con producto se busque agregar valor a negocio... un poco nerd sería un plus 🤓\n\n",
+    "goodPractices": "Con más de 15 años de experiencia en desarrollo de software, especializado en arquitecturas modernas como Microfrontends, SSR, SSG, ISR, y tecnologías como React, Next.js, TypeScript y Node.js.\n\nHe liderado equipos de ingeniería, optimizado aplicaciones para SEO y rendimiento, y trabajado en entornos altamente escalables con usuarios masivos.\n\nSoy un apasionado del aprendizaje continuo, con habilidades avanzadas en diseño UX/UI, metodologías ágiles (Scrum), y herramientas de desarrollo como Docker, AWS y Firebase."
   }
 }
