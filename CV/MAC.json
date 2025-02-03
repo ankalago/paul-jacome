@@ -78,6 +78,50 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Rappi",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/03/d5f620ca-6486-425a-bfc1-ba1d0639859e_screenshot-2025-02-0.png",
+            "alt": "Screenshot 2025-02-03 at 8.28.10 AM.png"
+          },
+          "URL": "https://about.rappi.com/es/inicio"
+        },
+        "roles": [
+          {
+            "name": "Tech Lead, Rappi, Remoto 100%",
+            "startDate": "2022-02-01",
+            "finishDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "- **React**, **Next.js**, **TypeScript**, **Jest**, **Testing Library**, Node, Styles Components, Google Optimize, Amplitude, Split.io\n- Arquitectura de **MicroFront**, Mejoras de rendimiento para SEO, Estrategia\npara **SSR**, **SSG** e **ISR**\n- Trabajar con **Google Merchant** (PLA y PDP páginas y SEM con imágenes)\n- Gestión de ingeniería (5 personas)\n- **Alta disponibilidad** de usuarios y bots\n- Experimentos **A/B testing**"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Optimize",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
