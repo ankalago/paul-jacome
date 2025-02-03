@@ -1,0 +1,348 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Paul",
+      "surnames": "Jácome",
+      "title": "%%HEADLINE%%",
+      "description": "Profesional dedicado y siempre motivado a embarcarme en retos personales y laborables, con ganas de aprender constantemente y recibir feedback. Soy autodidacta de nuevas herramientas y un entusiasta de la tecnología. Amigable aunque al principio un poco introvertido, cooperativo y me gusta trabajar en equipo, soy resiliente, empático, responsable, honrado y trabajador, además disfruto mucho de estar solo o con mi familia y amigos al aire libre.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/03/1506823b-716a-4495-bbd7-4a1fed1df82f_paul-jacome-carnet.jpg",
+        "alt": "paul-jacome-carnet.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pauljacome/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/ankalago"
+      },
+      {
+        "type": "other",
+        "URL": "https://sonofa.ai/topic/5f31dd74-5f8d-4b57-a444-d2279dabc890"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gatsby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Invision",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Liferay",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scala",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Serverless",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sketch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de recibir feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/pauljacome/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/ankalago",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "ankalago@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "623926143",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "nestJS",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Encontrar un ambiente de trabajo donde pueda compartir con personas de todo el mundo, apasionados de la tecnología que junto con producto se busque agregar valor a negocio... un poco nerd sería un plus 🤓\n\n"
+  }
+}
