@@ -360,6 +360,12 @@
       },
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bootstrap",
           "type": "technology"
         }
