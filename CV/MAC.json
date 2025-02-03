@@ -166,6 +166,62 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Rappi",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/03/94dceefa-00c4-42df-b079-9833ae53fd09_screenshot-2025-02-0.png",
+            "alt": "Screenshot 2025-02-03 at 8.28.10 AM.png"
+          },
+          "URL": "https://about.rappi.com/es/inicio"
+        },
+        "roles": [
+          {
+            "name": "Full Stack y Mobile Developer, Rappi, Remoto 100%",
+            "startDate": "2021-04-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "- **React**, **Angular**, **TypeScript**, **NestJs**, **Redux**, **React Native**, **Expo**, NodeJs, Ant Design, GitFlow, Sass  \n- Definición base de la arquitectura **MicroFront** para el WMS, **Module Federation**\n- **Arquitectura Hexagonal**\n- Entrevistas a nuevos empleados\n- Fullstack y mobile developer"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Typeform",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
