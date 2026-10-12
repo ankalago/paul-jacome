@@ -8,8 +8,8 @@
     "profile": {
       "name": "Paul",
       "surnames": "Jácome",
-      "title": "Senior Fullstack Software Engineer · TypeScript, React, Next.js, Node.js, AWS · IA aplicada",
-      "description": "Ingeniero de software fullstack con más de 18 años de experiencia construyendo productos web, los últimos años con TypeScript, React, Next.js, Node.js y AWS. Actualmente comparto, como uno de los dos ingenieros a tiempo completo, la responsabilidad de toda una plataforma fintech en producción: frontend, backend serverless, infraestructura e integraciones. Trabajo de extremo a extremo con un flujo de desarrollo asistido por IA (Claude Code) y experiencia práctica con servidores MCP y RAG.\n\nAutodidacta y con ganas de aprender constantemente y recibir feedback. Cooperativo, resiliente, empático y responsable; me gusta trabajar en equipo y disfruto del aire libre con mi familia y amigos.",
+      "title": "Ingeniero de Software apasionado por la tecnología, padre, esposo, montañista",
+      "description": "Profesional dedicado y siempre motivado a embarcarme en retos personales y laborables, con ganas de aprender constantemente y recibir feedback. Soy autodidacta de nuevas herramientas y un entusiasta de la tecnología. Amigable aunque al principio un poco introvertido, cooperativo y me gusta trabajar en equipo, soy resiliente, empático, responsable, honrado y trabajador, además disfruto mucho de estar solo o con mi familia y amigos al aire libre.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/03/1506823b-716a-4495-bbd7-4a1fed1df82f_paul-jacome-carnet.jpg",
         "alt": "paul-jacome-carnet.jpg"
@@ -38,110 +38,6 @@
   "experience": {
     "jobs": [
       {
-        "type": "startup",
-        "organization": {
-          "name": "Multiplo Capital",
-          "description": "Plataforma de planificación financiera y gestión patrimonial para clientes y asesores."
-        },
-        "roles": [
-          {
-            "name": "Senior Fullstack Software Developer, Multiplo Capital, Barcelona - Híbrido",
-            "startDate": "2025-03-01",
-            "challenges": [
-              {
-                "description": "Stack: **TypeScript** (monorepo pnpm + Turborepo), **Next.js** (App Router, 14 a 16), **React 19**, Mantine, **AWS Lambda**, **SST**, **PostgreSQL** + Drizzle, Zod, Jest, **Playwright**.\n- Uno de los dos ingenieros a tiempo completo con responsabilidad compartida sobre toda la plataforma (frontend, backend, infraestructura AWS e integraciones) tras la salida del CTO; más de 325 PRs fusionados como autor y más de 340 revisados.\n- Agregación bancaria (WealthReader) con sincronización de cuentas y movimientos, y módulo de dividendos con datos de mercado (EODHD), cálculo bruto/neto con retenciones y correcciones del asesor, entregado como cadena de 3 PRs.\n- Firma electrónica de contratos (LleidaNet) con webhooks cifrados, versiones firmadas auditadas y flujo de firma PBCFT/AML; suscripciones con **Stripe** por transferencia (IBAN virtual) y funnel de usuarios de prueba a clientes de pago.\n- Sistema unificado de autorización con permisos por recurso, borrado lógico con invalidación de sesiones y parches de vulnerabilidades en dependencias.\n- Migraciones de plataforma: Next.js 14 a 16, Cypress a Playwright + Stagehand (E2E con IA), npm a pnpm y Flowbite a Mantine; optimización de bundle y observabilidad de logs.\n- Desarrollo asistido por IA con **Claude Code** y revisión adversarial; prototipo de servidor **MCP** que conecta Claude Code y Claude Desktop con datos de la plataforma para consultas en lenguaje natural."
-              }
-            ],
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "AWS Lambda",
-                "type": "technology"
-              },
-              {
-                "name": "SST",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Drizzle ORM",
-                "type": "technology"
-              },
-              {
-                "name": "Zod",
-                "type": "technology"
-              },
-              {
-                "name": "Mantine",
-                "type": "technology"
-              },
-              {
-                "name": "Turborepo",
-                "type": "technology"
-              },
-              {
-                "name": "pnpm",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "Playwright",
-                "type": "technology"
-              },
-              {
-                "name": "GitHub Actions",
-                "type": "technology"
-              },
-              {
-                "name": "Stripe",
-                "type": "technology"
-              },
-              {
-                "name": "Sentry",
-                "type": "technology"
-              },
-              {
-                "name": "PostHog",
-                "type": "technology"
-              },
-              {
-                "name": "Claude Code",
-                "type": "tool"
-              },
-              {
-                "name": "MCP",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "organization": {
           "name": "Minteo",
           "image": {
@@ -156,7 +52,7 @@
             "startDate": "2023-03-01",
             "challenges": [
               {
-                "description": "- **React**, Next.js, **TypeScript**, Dripsy, React Native\n- Crypto, **Web3** (fintech de stablecoins)\n- **Temporal IO**\n- Vercel (Vercel CLI, Deploys, Edge Config) \n- Arquitectura de **MicroFront**, Mejoras de rendimiento para performance y SEO\n- Trabajar con Google Tag Manager \n- Alta disponibilidad de usuarios y bots \n- Mixpanel"
+                "description": "- **React**, Next.js, **TypeScript**, Dripsy, React Native\n- Crypto, **Web3**\n- **Temporal IO**\n- Vercel (Vercel CLI, Deploys, Edge Config) \n- Arquitectura de **MicroFront**, Mejoras de rendimiento para performance y SEO\n- Trabajar con Google Tag Manager \n- Alta disponibilidad de usuarios y bots \n- Mixpanel"
               }
             ],
             "competences": [
@@ -180,8 +76,7 @@
                 "name": "TypeScript",
                 "type": "technology"
               }
-            ],
-            "finishDate": "2025-02-01"
+            ]
           }
         ]
       },
@@ -342,7 +237,7 @@
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
+                "name": "Typeform",
                 "type": "technology"
               },
               {
@@ -428,83 +323,6 @@
             ]
           }
         ]
-      },
-      {
-        "type": "publicAdministration",
-        "organization": {
-          "name": "Servicio de Rentas Internas (SRI)",
-          "description": "Administración tributaria de Ecuador."
-        },
-        "roles": [
-          {
-            "name": "Experto Nacional de Desarrollo, Servicio de Rentas Internas (SRI), Quito",
-            "startDate": "2015-02-01",
-            "finishDate": "2017-01-01",
-            "challenges": [
-              {
-                "description": "- Portal institucional, portal de declaraciones tributarias e intranet\n- Nuevas soluciones para la ciudadanía\n- **Liferay**, **Java**, PHP, JavaScript"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Liferay",
-                "type": "technology"
-              },
-              {
-                "name": "Java",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "publicArtifacts": [
-      {
-        "type": "sideProject",
-        "details": {
-          "name": "Asistente de estudio (RAG multi-tenant)",
-          "description": "Proyecto personal: aplicación multi-institución con roles de estudiante, familia y tutor que evalúa al estudiante sobre el material subido y ofrece feedback cualitativo; orientada a la preparación de la PAU."
-        },
-        "relatedCompetences": [
-          {
-            "name": "RAG",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          },
-          {
-            "name": "Mastra",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "type": "sideProject",
-        "details": {
-          "name": "Asistente de coaching (RAG)",
-          "description": "Proyecto personal: análisis de sesiones de coaching grabadas para detectar puntos de mejora y preparar la siguiente sesión."
-        },
-        "relatedCompetences": [
-          {
-            "name": "RAG",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
       }
     ]
   },
@@ -566,37 +384,13 @@
       },
       {
         "skill": {
-          "name": "Claude Code",
-          "type": "tool"
-        }
-      },
-      {
-        "skill": {
           "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Drizzle ORM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DynamoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Expo",
           "type": "technology"
         }
       },
@@ -620,19 +414,7 @@
       },
       {
         "skill": {
-          "name": "GitHub Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GraphQL",
           "type": "technology"
         }
       },
@@ -680,24 +462,6 @@
       },
       {
         "skill": {
-          "name": "MCP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mantine",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mastra",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MySQL",
           "type": "technology"
         }
@@ -716,37 +480,7 @@
       },
       {
         "skill": {
-          "name": "OpenCode",
-          "type": "tool"
-        }
-      },
-      {
-        "skill": {
           "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Playwright",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostHog",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RAG",
           "type": "technology"
         }
       },
@@ -770,25 +504,7 @@
       },
       {
         "skill": {
-          "name": "RxJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SWR",
           "type": "technology"
         }
       },
@@ -806,12 +522,6 @@
       },
       {
         "skill": {
-          "name": "Sentry",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Serverless",
           "type": "technology"
         }
@@ -819,12 +529,6 @@
       {
         "skill": {
           "name": "Sketch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Stripe",
           "type": "technology"
         }
       },
@@ -842,31 +546,7 @@
       },
       {
         "skill": {
-          "name": "Temporal",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TestingLibrary",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Turborepo",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vercel",
           "type": "technology"
         }
       },
@@ -879,18 +559,6 @@
       {
         "skill": {
           "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Zod",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Zustand",
           "type": "technology"
         }
       },
@@ -917,66 +585,6 @@
       {
         "skill": {
           "name": "Trabajo en equipo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "TDD",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "DDD",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Arquitectura limpia / hexagonal",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Micro-frontends",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Code review",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "CI/CD",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scrum",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "SEO técnico",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "A/B testing",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Desarrollo asistido por IA",
           "type": "practice"
         }
       }
@@ -1035,14 +643,27 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [],
+      "discardedCompetences": [
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
         "Full-stack Developer"
       ]
     },
-    "status": "openToOffers",
+    "status": "searchingActively",
     "requirements": {
       "contractTypes": [
         "permanent"
@@ -1051,10 +672,6 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "AWS",
-        "type": "technology"
-      },
       {
         "name": "NextJS",
         "type": "technology"
@@ -1077,6 +694,6 @@
       }
     ],
     "desiredJobDescription": "Encontrar un ambiente de trabajo donde pueda compartir con personas de todo el mundo, apasionados de la tecnología que junto con producto se busque agregar valor a negocio... un poco nerd sería un plus 🤓\n\n",
-    "goodPractices": "Con más de 18 años de experiencia en desarrollo de software, especializado en arquitecturas modernas como Microfrontends, SSR, SSG, ISR, y tecnologías como React, Next.js, TypeScript y Node.js.\n\nHe liderado equipos de ingeniería, optimizado aplicaciones para SEO y rendimiento, y trabajado en entornos altamente escalables con usuarios masivos.\n\nSoy un apasionado del aprendizaje continuo, con habilidades avanzadas en diseño UX/UI, metodologías ágiles (Scrum), y herramientas de desarrollo como Docker, AWS y Firebase.\n\nTrabajo con un flujo de desarrollo asistido por IA (Claude Code), con revisión adversarial, y tengo experiencia práctica con servidores MCP y RAG."
+    "goodPractices": "Con más de 15 años de experiencia en desarrollo de software, especializado en arquitecturas modernas como Microfrontends, SSR, SSG, ISR, y tecnologías como React, Next.js, TypeScript y Node.js.\n\nHe liderado equipos de ingeniería, optimizado aplicaciones para SEO y rendimiento, y trabajado en entornos altamente escalables con usuarios masivos.\n\nSoy un apasionado del aprendizaje continuo, con habilidades avanzadas en diseño UX/UI, metodologías ágiles (Scrum), y herramientas de desarrollo como Docker, AWS y Firebase."
   }
 }
